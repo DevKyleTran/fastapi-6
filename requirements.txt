@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+curl-cffi
+ruyijs
+requests
+beautifulsoup4
